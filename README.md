@@ -21,3 +21,4 @@ It covers projects from 4 "Hands-On" courses. Those are:
 5. Character Level Language Model
 
 
+Don't forget to give a star if you manage to clone / fork the repo!
